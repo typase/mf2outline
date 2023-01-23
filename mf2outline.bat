@@ -1,0 +1,1 @@
+fontforge c:/mf2outline-fork/mf2outline.py %*
